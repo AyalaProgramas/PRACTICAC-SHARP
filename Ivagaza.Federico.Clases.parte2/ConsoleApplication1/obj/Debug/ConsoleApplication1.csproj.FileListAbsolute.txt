@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\ConsoleApplication1\bin\Debug\ClassLibrary3.dll
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\ConsoleApplication1\bin\Debug\ClassLibrary3.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

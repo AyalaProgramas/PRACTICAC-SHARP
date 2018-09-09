@@ -1,0 +1,16 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico.Clases.parte2\TestDeposito\bin\Debug\TestDeposito.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico.Clases.parte2\TestDeposito\bin\Debug\TestDeposito.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico.Clases.parte2\TestDeposito\bin\Debug\TestDeposito.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico.Clases.parte2\TestDeposito\bin\Debug\ClassLibrary1.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico.Clases.parte2\TestDeposito\bin\Debug\ClassLibrary1.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico.Clases.parte2\TestDeposito\obj\Debug\TestDeposito.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico.Clases.parte2\TestDeposito\obj\Debug\TestDeposito.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ivagaza.Federico.Clases.parte2\TestDeposito\obj\Debug\TestDeposito.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\TestDeposito\bin\Debug\TestDeposito.exe.config
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\TestDeposito\obj\Debug\TestDeposito.exe
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\TestDeposito\obj\Debug\TestDeposito.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\TestDeposito\bin\Debug\TestDeposito.exe
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\TestDeposito\bin\Debug\TestDeposito.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\TestDeposito\bin\Debug\ClassLibrary1.dll
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\TestDeposito\bin\Debug\ClassLibrary1.pdb
+C:\Users\alumno\Desktop\Ivagaza.Federico.Clases.parte2\TestDeposito\obj\Debug\TestDeposito.csprojResolveAssemblyReference.cache
