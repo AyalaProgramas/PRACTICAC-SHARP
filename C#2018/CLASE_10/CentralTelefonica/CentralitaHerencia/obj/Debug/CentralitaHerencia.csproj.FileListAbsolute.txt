@@ -1,0 +1,11 @@
+C:\Users\Monica\Desktop\C# NEINER\CLASE_10\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+C:\Users\Monica\Desktop\C# NEINER\CLASE_10\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Monica\Desktop\C# NEINER\CLASE_10\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+C:\Users\Monica\Desktop\C# NEINER\CLASE_10\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+C:\Users\Monica\Desktop\C# NEINER\CLASE_10\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\Monica\Desktop\C# NEINER\CLASE_10\CentralTelefonica\CentralitaHerencia\bin\Debug\Entidades.dll
+C:\Users\Monica\Desktop\C# NEINER\CLASE_10\CentralTelefonica\CentralitaHerencia\bin\Debug\Entidades.pdb
+E:\C# EN CASA\CLASE_10\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+E:\C# EN CASA\CLASE_10\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+F:\CLASE 8 MARTES 12 09 17\CLASE_10\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+F:\CLASE 8 MARTES 12 09 17\CLASE_10\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

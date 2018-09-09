@@ -1,0 +1,5 @@
+C:\Users\Monica\Desktop\C# NEINER\CLASE_10\CentralTelefonica\Entidades\bin\Debug\Entidades.dll
+C:\Users\Monica\Desktop\C# NEINER\CLASE_10\CentralTelefonica\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Monica\Desktop\C# NEINER\CLASE_10\CentralTelefonica\Entidades\obj\Debug\Entidades.dll
+C:\Users\Monica\Desktop\C# NEINER\CLASE_10\CentralTelefonica\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Monica\Desktop\C# NEINER\CLASE_10\CentralTelefonica\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
